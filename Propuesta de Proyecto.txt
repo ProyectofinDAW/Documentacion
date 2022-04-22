@@ -1,0 +1,40 @@
+
+https://milvus.online/blog/entienda-definitivamente-como-hacer-un-buen-inventario-de-hardware-y-software-para-su-empresa/
+el inventario de hardware y software es la estrategia que permite que la empresa tenga un modelo de servicio escalable, o sea, pueda atender más clientes y generar más negocios, sin necesariamente hacer grandes inversiones en su estructura
+
+Inventarios de TI
+
+El inventario de TI es generalista e involucra también el mapeamiento y evaluación de la performance de los hardwares de la empresa. Eso optimiza las funciones de Help Desk en el soporte y manutenciones, controla la utilización solamente por usuarios autorizados, además es claro, de aumentar la vida útil de los equipos.
+
+Eso garante que inversiones en tecnologías sean bien planificados y solamente cuando sean necesarios, permitiendo que la empresa no retenga recursos en una infraestructura sutilizada y que pueda tornarse obsoleta.
+
+Tales enfoques permiten potencializar la gestión de TI de un negocio, hacer con que ella realice acciones preventivas y no reactivas. Ese cambio de perspectiva general garante que la empresa tenga mayor control de sus recursos tecnológicos y no sufra con eventuales embotellamiento o inoperancias que pueden comprometer los resultados.
+
+Inventarios de redes
+
+El inventario de red lidia no solamente con los hardwares responsables por conexiones de sistemas, pero también de los sistemas y servicios entrelazados. Por eso, es necesario monitorear sus licencias de utilización, validad de las versiones y como ellas se relacionan con otras.
+
+Conectar sistemas y hacer con que uno comparta datos con los otros es esencial para traer optimización para los procesos internos. Y para eso, es necesario que la infraestructura de la red este en día con sus requisitos de velocidad y procesamiento, por ejemplo.
+
+Ese inventario también es extremamente estratégico para empresas que lidian con aumentos repentinos de utilización de su parque tecnológico. Aquellas que poseen e-commerce, por ejemplo, regularmente hacen promociones que generan tráfico en sus servidores.
+
+Para que tales promociones tengan éxito, por lo tanto, es necesario saber si la infraestructura actual soporta tal movimiento atípico. Con un inventario de red bien organizado, el TI puede actuar estratégicamente validando que la red soportará o no tal volumen de accesos.
+
+
+
+
+Inventario Informático(https://www.ymant.com/blog/inventario-informatico/#:~:text=Inventario%20Inform%C3%A1tico&text=Se%20trata%20de%20un%20trabajo,almacenar%20para%20su%20posterior%20evaluaci%C3%B3n.)
+Se trata de un trabajo de recopilación de toda la información relativa a los equipos que podamos o queramos almacenar para su posterior evaluación.
+
+Esta recopilación es muy útil tanto para los clientes como para el proveedor de servicios informáticos, aunque cada uno suele verlo desde un enfoque diferente.
+Los clientes suelen utilizar la información relativa a los costes, número de contrato, fecha de inicio o fin de renting para su control presupuestario. Les interesa saber cuánto dinero deben desgravar este año por la inversión en equipos informáticos o cuántos ordenadores acaban su renting el año que viene para registrar una partida económica en los presupuestos del año que viene. De la parte técnica tan sólo les interesa el identificador del equipo para avisar de una avería al su servicio de mantenimiento informático.
+
+A la empresa que gestiona el mantenimiento informático le suelen interesar otras variables más técnicas que le ayude a dar una respuesta correcta en caso de avería de cualquier pieza: discos duros, DIM de memoria, tarjetas gráficas, placas bases, etc. Obviamente también está interesado en conocer cuántos equipos terminan contrato de mantenimiento para poder realizar la oferta correspondiente.
+Así pues llevar un inventario informático correcto nos permitirá poder reaccionar correctamente y de forma ágil a los requerimientos de los responsables económicos, si de facturación se trata, o de cualquiera a quien se le haya estropeado el ordenador.
+
+
+
+Según la Wikipedia(https://es.wikipedia.org/wiki/Software_de_gesti%C3%B3n_de_inventarios)
+El software especializado para realizar inventarios es en realidad un conjunto de herramientas elaboradas para la supervisión de componentes establecidas en una red, bien sea pública o privada (corporativa, administrativa, social, entre otros), que facilita el seguimiento de la configuración y el software instalado en los ordenadores de una red local, así como la instalación remota de aplicaciones desde un servidor Web. Este permite a los usuarios administrar el inventario de sus activos, por medio de un despliegue de paquetes en computadores como por ejemplo Windows y Linux.
+
+El uso de software especializado para la realización de inventarios son una solución relativamente nueva a un problema clásico en producción: el de controlar y coordinar los materiales para que estén disponibles cuando se precisan, y sin necesidad de mantener un inventario excesivo. La gran cantidad de datos que hay que manejar y la enorme complejidad de las interrelaciones entre los distintos componentes, trajeron consigo que, antes de los años sesenta, no existiera forma satisfactoria de resolver los problemas a nivel de mercancía, o a nivel de los activos que poseían las empresas. Por desgracia, no siempre conseguían sus objetivos, aunque casi siempre incurrían en elevados costos de almacenamiento. Hubo que esperar a la actualidad para que la aparición del ordenador personal abriera las puertas al 'Software de Inventarios', siendo ésta algo más que una simple técnica de gestión de inventarios informáticos y de activos.
